@@ -1,0 +1,72 @@
+[submodule "godot_cutscene_system"]
+	path = godot_cutscene_system
+	url = git@github.com:nezvers/godot_cutscene_system.git
+[submodule "godot_input_tester"]
+	path = godot_input_tester
+	url = git@github.com:nezvers/godot_input_tester.git
+[submodule "godot_shader_effects"]
+	path = godot_shader_effects
+	url = git@github.com:nezvers/godot_shader_effects.git
+[submodule "godot_clones"]
+	path = godot_clones
+	url = git@github.com:nezvers/godot_clones.git
+[submodule "bettergraph"]
+	path = bettergraph
+	url = git@github.com:nezvers/bettergraph.git
+[submodule "godot_2d_action_platformer"]
+	path = godot_2d_action_platformer
+	url = git@github.com:nezvers/godot_2d_action_platformer.git
+[submodule "gamesystemsinc"]
+	path = gamesystemsinc
+	url = git@github.com:nezvers/gamesystemsinc.git
+[submodule "godot_goodies"]
+	path = godot_goodies
+	url = git@github.com:nezvers/godot_goodies.git
+[submodule "godot_tutorials"]
+	path = godot_tutorials
+	url = git@github.com:nezvers/godot_tutorials.git
+[submodule "games_in_c"]
+	path = games_in_c
+	url = git@github.com:nezvers/games_in_c.git
+[submodule "godot_public_examples"]
+	path = godot_public_examples
+	url = git@github.com:nezvers/godot_public_examples.git
+[submodule "godot-gametemplate"]
+	path = godot-gametemplate
+	url = git@github.com:nezvers/godot-gametemplate.git
+[submodule "raylib_rectanglecollision"]
+	path = raylib_rectanglecollision
+	url = git@github.com:nezvers/raylib_rectanglecollision.git
+[submodule "godot_jam_games"]
+	path = godot_jam_games
+	url = git@github.com:nezvers/godot_jam_games.git
+[submodule "godot-demo-projects"]
+	path = godot-demo-projects
+	url = git@github.com:nezvers/godot-demo-projects.git
+[submodule "jimthemole"]
+	path = jimthemole
+	url = git@github.com:nezvers/jimthemole.git
+[submodule "godot_rigidbodyfpscontroller"]
+	path = godot_rigidbodyfpscontroller
+	url = git@github.com:nezvers/godot_rigidbodyfpscontroller.git
+[submodule "lowpolymobiletemplate"]
+	path = lowpolymobiletemplate
+	url = git@github.com:nezvers/lowpolymobiletemplate.git
+[submodule "godot_tools_and_utility"]
+	path = godot_tools_and_utility
+	url = git@github.com:nezvers/godot_tools_and_utility.git
+[submodule "supersimplestatemachine_in_c"]
+	path = supersimplestatemachine_in_c
+	url = git@github.com:nezvers/supersimplestatemachine_in_c.git
+[submodule "mariophysics_godot"]
+	path = mariophysics_godot
+	url = git@github.com:nezvers/mariophysics_godot.git
+[submodule "godot_game_console"]
+	path = godot_game_console
+	url = git@github.com:nezvers/godot_game_console.git
+[submodule "statemachine_system_for_godot"]
+	path = statemachine_system_for_godot
+	url = git@github.com:nezvers/statemachine_system_for_godot.git
+[submodule "godot_projects_for_learning"]
+	path = godot_projects_for_learning
+	url = git@github.com:nezvers/godot_projects_for_learning.git
